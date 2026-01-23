@@ -26,6 +26,9 @@ npm install
 3. Start expo
 `npx expo start`
 
+4. If starting from Codespace
+`npx expo start --tunnel`
+
 # Run for different Platforms
 
 1. Run Web
